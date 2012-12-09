@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>800204094</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\..\app\telnetd\memb.c</file>
+      <file>$PROJ_DIR$\..\app\led7_task.c</file>
+      <file>$PROJ_DIR$\..\app\telnetd\memb.h</file>
+      <file>$PROJ_DIR$\..\app\telnetd\shell.c</file>
+      <file>$PROJ_DIR$\..\app\telnetd\shell.h</file>
+      <file>$PROJ_DIR$\..\app\telnetd\telnetd.c</file>
+      <file>$PROJ_DIR$\..\app\telnetd\telnetd.h</file>
+      <file>$PROJ_DIR$\..\app\FreeRTOSConfig.h</file>
+      <file>$PROJ_DIR$\..\app\led7_task.h</file>
+      <file>$PROJ_DIR$\..\app\main.c</file>
+      <file>$PROJ_DIR$\..\app\main.h</file>
+      <file>$PROJ_DIR$\..\app\uip_task.c</file>
+      <file>$PROJ_DIR$\..\app\uip_task.h</file>
+      <file>$PROJ_DIR$\..\dev\enc28j60.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\queue.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\queue.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\httpd.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\enc28j60.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\heap_1.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_LPC11xx.o</file>
+      <file>$PROJ_DIR$\..\app\webserver\httpd-cgi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer16.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip_task.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\telnetd.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\core_cm0.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\telnetd.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\fp.out</file>
+      <file>$PROJ_DIR$\..\app\webserver\webserver.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\portasm.o</file>
+      <file>$PROJ_DIR$\..\lpc1114\icf\LPC1114_Flash.icf</file>
+      <file>$PROJ_DIR$\..\app\webserver\httpd-fsdata.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\http-strings.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\led7_task.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\led7_task.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.o</file>
+      <file>$PROJ_DIR$\..\app\webserver\httpd.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\httpd-cgi.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip_arp.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\enc28j60.o</file>
+      <file>$PROJ_DIR$\..\app\webserver\httpd-cgi.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.pbi</file>
+      <file>$PROJ_DIR$\..\app\webserver\httpd-fs.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\inttypes.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\clkconfig.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\port.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\http-strings.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\clkconfig.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\shell.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\httpd-fs.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\spi.o</file>
+      <file>$PROJ_DIR$\Debug\List\fp.map</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip_arp.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\httpd-cgi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip_timer.o</file>
+      <file>$PROJ_DIR$\..\app\webserver\http-strings.c</file>
+      <file>$PROJ_DIR$\..\app\webserver\http-strings.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer32.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip_task.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer16.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip_timer.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\app\webserver\httpd-fs.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\httpd-fs.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup_M.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\httpd-fsdata.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\httpd.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\clock_arch.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip_arch.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\spi.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\fp.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uip_arch.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\tasks.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\list.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\shell.o</file>
+      <file>$PROJ_DIR$\..\dev\enc28j60.h</file>
+      <file>$PROJ_DIR$\..\dev\led7.c</file>
+      <file>$PROJ_DIR$\..\dev\led7.h</file>
+      <file>$PROJ_DIR$\..\dev\spi.c</file>
+      <file>$PROJ_DIR$\..\dev\spi.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\croutine.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\FreeRTOS.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\mpu_wrappers.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\list.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\portable.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\projdefs.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\semphr.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\queue.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\StackMacros.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\timers.h</file>
+      <file>$PROJ_DIR$\..\freertos\include\task.h</file>
+      <file>$PROJ_DIR$\..\freertos\heap_1.c</file>
+      <file>$PROJ_DIR$\..\freertos\list.c</file>
+      <file>$PROJ_DIR$\..\freertos\port.c</file>
+      <file>$PROJ_DIR$\..\freertos\queue.c</file>
+      <file>$PROJ_DIR$\..\freertos\portasm.s</file>
+      <file>$PROJ_DIR$\..\freertos\portmacro.h</file>
+      <file>$PROJ_DIR$\..\freertos\tasks.c</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\power_profiles.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\clkconfig.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\core_cm0.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\gpio.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\LPC11xx.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\system_LPC11xx.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\src\system_LPC11xx.c</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\timer16.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\timer32.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\type.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\inc\uart.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\src\clkconfig.c</file>
+      <file>$PROJ_DIR$\..\lpc1114\src\core_cm0.c</file>
+      <file>$PROJ_DIR$\..\lpc1114\src\cstartup_M.s</file>
+      <file>$PROJ_DIR$\..\lpc1114\src\gpio.c</file>
+      <file>$PROJ_DIR$\..\uip\clock.h</file>
+      <file>$PROJ_DIR$\..\lpc1114\src\timer16.c</file>
+      <file>$PROJ_DIR$\..\lpc1114\src\timer32.c</file>
+      <file>$PROJ_DIR$\..\lpc1114\src\uart.c</file>
+      <file>$PROJ_DIR$\..\uip\clock_arch.c</file>
+      <file>$PROJ_DIR$\..\uip\clock_arch.h</file>
+      <file>$PROJ_DIR$\..\uip\uip.c</file>
+      <file>$PROJ_DIR$\..\uip\uip.h</file>
+      <file>$PROJ_DIR$\..\uip\uip_arch.c</file>
+      <file>$PROJ_DIR$\..\uip\uip_arch.h</file>
+      <file>$PROJ_DIR$\..\uip\uip_arp.c</file>
+      <file>$PROJ_DIR$\..\uip\uip_arp.h</file>
+      <file>$PROJ_DIR$\..\uip\uip_conf.h</file>
+      <file>$PROJ_DIR$\..\uip\uip_timer.c</file>
+      <file>$PROJ_DIR$\..\uip\uip_timer.h</file>
+      <file>$PROJ_DIR$\..\uip\uipopt.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\list.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\core_cm0.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\port.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\memb.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_LPC11xx.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\tasks.o</file>
+      <file>$PROJ_DIR$\..\app\webserver\httpd.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\httpd-fsdata.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\led7.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\led7.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\heap_1.o</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\clock_arch.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer32.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\memb.o</file>
+      <file>$PROJ_DIR$\..\app\webserver\httpd-fsdata.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\app\telnetd\memb.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 155</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 166</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 78 62 23 44 67 0 51 69 3 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\led7_task.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100 125 123 126 14 104 108 11 107 119 105 110 113 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 100 125 123 53 78 62 23 44 67 0 51 80 126 14 104 93 69 108 11 107 119 105 110 113 106</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\telnetd\shell.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 14 104 108 11 107 119 105 110</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 14 104 93 78 62 23 44 67 0 51 69 108 11 80 107 119 105 110 2 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\telnetd\telnetd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143 151 148 10 6 8</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143 151 148 52 78 53 62 23 44 67 0 51 10 6 8 2 69 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125 123 126 100 104 108 11 107 119 105 113 106 110 143 151 148 10 16 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 78 62 23 44 67 0 51 69 2 3 125 123 53 80 126 100 104 93 108 11 107 119 105 113 106 110 143 151 148 52 10 16 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\uip_task.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 108 11 107 119 105 109 110 113 106 98 102 125 123 126 143 151 148 10 147 150 136 141</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 78 62 23 44 67 0 51 69 60 21 104 93 108 11 80 107 119 105 109 110 113 106 98 102 125 123 53 126 143 151 148 52 10 147 150 136 141</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\dev\enc28j60.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98 102 125 123 126 143 151 148 10 147</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98 102 125 123 53 78 62 23 44 67 0 51 80 126 143 151 148 52 10 147</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 66 33</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\fp.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 36 58 164 153 82 47 1 162 160 40 96 91 166 56 35 18 97 65 25 157 29 76 74 42 63 94 68 75 71 89 59 163 88</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\webserver\httpd-fsdata.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 159</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\webserver\httpd-cgi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143 151 148 34 43 50 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\webserver\http-strings.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\webserver\httpd-fs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 50 167 143 151 148 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\fp.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 54 85 30 22 49 24 161 41 152 90 155 154 19 61 87 156 95 31 27 165 55 32 86 46 28 77</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\dev\led7.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100 125 123 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 100 125 123 53 78 62 23 44 67 0 51 80 126</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\dev\spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 125 123 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102 125 123 53 78 62 23 44 67 0 51 80 126</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\freertos\heap_1.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 162</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 108 11 107 119 105 113 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 78 62 23 44 67 0 51 69 104 93 108 11 80 107 119 105 113 106</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\freertos\list.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 152</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 96</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 108 11 107 119 105 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 78 62 23 44 67 0 51 69 104 93 108 11 80 107 119 105 106</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\freertos\port.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 154</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 108 11 107 119 105 113 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104 93 78 62 23 44 67 0 51 69 108 11 80 107 119 105 113 106</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\freertos\queue.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 108 11 107 119 105 113 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 78 62 23 44 67 0 51 69 2 3 104 93 108 11 80 107 119 105 113 106</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\freertos\portasm.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\freertos\tasks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 157</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 108 11 107 119 105 113 106 112 111</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60 78 62 23 44 67 0 51 69 21 38 2 3 104 93 108 11 80 107 119 105 113 106 112 111</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lpc1114\src\system_LPC11xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 156</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125 123 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53 78 62 23 44 67 0 51 125 123 80 126</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lpc1114\src\clkconfig.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125 123 126 122</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 123 53 78 62 23 44 67 0 51 80 126 122</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lpc1114\src\core_cm0.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 153</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53 78 62 23 44 67 0 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lpc1114\src\cstartup_M.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lpc1114\src\gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125 123 126 124</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 123 53 78 62 23 44 67 0 51 80 126 124</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lpc1114\src\timer16.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125 123 126 128</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 123 53 78 62 23 44 67 0 51 80 126 128</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lpc1114\src\timer32.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 165</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125 123 126 129</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 123 53 78 62 23 44 67 0 51 80 126 129</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lpc1114\src\uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125 123 126 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 123 53 78 62 23 44 67 0 51 80 126 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\uip\clock_arch.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 164</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 108 11 107 119 105 141</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104 93 78 62 23 44 67 0 51 69 108 11 80 107 119 105 141</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\uip\uip.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143 151 148 10 145</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143 151 148 52 78 53 62 23 44 67 0 51 10 145 2 69 3 60 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\uip\uip_arch.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 94</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143 151 148 10 145</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143 151 148 52 78 53 62 23 44 67 0 51 10 145</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\uip\uip_arp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 147 143 151 148 10</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 147 143 151 148 52 78 53 62 23 44 67 0 51 10 2 69 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\uip\uip_timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136 141 150</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 136 141 150</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\app\webserver\httpd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143 151 148 34 43 50 26 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\app\webserver\httpd-fsdata.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\app\webserver\httpd-cgi.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\app\webserver\http-strings.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\app\webserver\httpd-fs.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\app\webserver\httpd.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

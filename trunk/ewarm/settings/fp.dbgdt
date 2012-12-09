@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1395</ColumnWidth1>
+        <ColumnWidth2>372</ColumnWidth2>
+        <ColumnWidth3>93</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>173</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly>
+      <Register/>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files>
+    <QUEUEVIEW><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><Column0>300</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3><Column4>100</Column4><Column5>100</Column5><Column6>100</Column6></QUEUEVIEW><TASKVIEW><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><Column0>200</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3><Column4>100</Column4><Column5>100</Column5><Column6>100</Column6><Column7>150</Column7></TASKVIEW><STACK2><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></STACK2><Watch><Format><struct_types/><watch_formats/></Format><Column0>100</Column0><Column1>159</Column1><Column2>100</Column2><Column3>100</Column3></Watch><CallStack><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ViewArgs>1</ViewArgs></CallStack></Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10374-1471</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-9851-1481</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-8251-31582</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-9478-15100</Identity><TabName>Queues</TabName><Factory>QUEUEVIEW</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21122-1475</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>fp</ExpandedNode><ExpandedNode>fp/app</ExpandedNode><ExpandedNode>fp/uip</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-16439-3405</Identity>
+            <TabName>Register</TabName>
+            <Factory>Register</Factory>
+            <Session>
+              
+              
+              
+              
+              
+              
+              
+              
+            <REG1>0</REG1><REG2>0</REG2><Group>2</Group><States>4</States><State0>APSR</State0><State1>CONTROL</State1><State2>EPSR</State2><State3>IPSR</State3></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-22318-15064</Identity><TabName>Tasks</TabName><Factory>TASKVIEW</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3><Wnd4><Tabs><Tab><Identity>TabID-18949-18564</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>pxNewQueue</Expression></Expression><Expression><Expression>pxNewTCB</Expression></Expression><Expression><Expression>xHeap</Expression></Expression></Expressions><TabId>0</TabId><Column0>100</Column0><Column1>159</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-13972-20295</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\dev\led7.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>57</SelStart><SelEnd>57</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>34</SelStart><SelEnd>34</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\telnetd\shell.h</Filename><XPos>0</XPos><YPos>82</YPos><SelStart>3151</SelStart><SelEnd>3151</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\freertos\include\queue.h</Filename><XPos>0</XPos><YPos>131</YPos><SelStart>5389</SelStart><SelEnd>5389</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\led7_task.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>242</SelStart><SelEnd>242</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\led7_task.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>74</SelStart><SelEnd>74</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\dev\enc28j60.c</Filename><XPos>0</XPos><YPos>29</YPos><SelStart>1396</SelStart><SelEnd>1396</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\dev\spi.c</Filename><XPos>0</XPos><YPos>61</YPos><SelStart>4698</SelStart><SelEnd>4698</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\dev\led7.c</Filename><XPos>0</XPos><YPos>95</YPos><SelStart>3272</SelStart><SelEnd>3272</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\telnetd\telnetd.c</Filename><XPos>0</XPos><YPos>325</YPos><SelStart>8175</SelStart><SelEnd>8175</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\uip\uip.c</Filename><XPos>0</XPos><YPos>1713</YPos><SelStart>53667</SelStart><SelEnd>53667</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\telnetd\shell.c</Filename><XPos>0</XPos><YPos>72</YPos><SelStart>2639</SelStart><SelEnd>2639</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\main.c</Filename><XPos>0</XPos><YPos>29</YPos><SelStart>836</SelStart><SelEnd>836</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\freertos\port.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>3310</SelStart><SelEnd>3310</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\freertos\heap_1.c</Filename><XPos>0</XPos><YPos>67</YPos><SelStart>3843</SelStart><SelEnd>3849</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\FreeRTOSConfig.h</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>3978</SelStart><SelEnd>3978</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\freertos\include\task.h</Filename><XPos>0</XPos><YPos>254</YPos><SelStart>9021</SelStart><SelEnd>9021</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\freertos\include\projdefs.h</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>3295</SelStart><SelEnd>3295</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\freertos\queue.c</Filename><XPos>0</XPos><YPos>261</YPos><SelStart>13586</SelStart><SelEnd>13586</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\uip_task.c</Filename><XPos>0</XPos><YPos>41</YPos><SelStart>1428</SelStart><SelEnd>1428</SelEnd></Tab><ActiveTab>19</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\freertos\tasks.c</Filename><XPos>0</XPos><YPos>376</YPos><SelStart>17334</SelStart><SelEnd>17334</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00cfedc0><key>iaridepm.enu1</key></Toolbar-00cfedc0></Sizes></Row0><Row1><Sizes><Toolbar-00dc7460><key>debuggergui.enu1</key></Toolbar-00dc7460><Toolbar-00dc7208><key>armjlink.enu1</key></Toolbar-00dc7208></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>550</Bottom><Right>264</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>200401</sizeHorzCY><sizeVertCX>138542</sizeVertCX><sizeVertCY>553106</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>550</Bottom><Right>223</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>200401</sizeHorzCY><sizeVertCX>117188</sizeVertCX><sizeVertCY>553106</sizeVertCY></Rect></Wnd2></Sizes></Row0><Row1><Sizes><Wnd4><Rect><Top>-2</Top><Left>221</Left><Bottom>550</Bottom><Right>474</Right><x>221</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>200401</sizeHorzCY><sizeVertCX>131771</sizeVertCX><sizeVertCY>553106</sizeVertCY></Rect></Wnd4></Sizes></Row1><Row2><Sizes><Wnd5><Rect><Top>-2</Top><Left>472</Left><Bottom>550</Bottom><Right>857</Right><x>472</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>200401</sizeHorzCY><sizeVertCX>200521</sizeVertCX><sizeVertCY>553106</sizeVertCY></Rect></Wnd5></Sizes></Row2></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>241</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>243</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>243487</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>200401</sizeVertCY></Rect></Wnd0></Sizes></Row0><Row1><Sizes><Wnd3><Rect><Top>239</Top><Left>-2</Left><Bottom>379</Bottom><Right>1922</Right><x>-2</x><y>239</y><xscreen>1924</xscreen><yscreen>140</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>140281</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>200401</sizeVertCY></Rect></Wnd3></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
