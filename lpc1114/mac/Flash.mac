@@ -1,0 +1,12 @@
+execUserReset()
+{
+  __message "------- execute UserReset -----------";
+  __writeMemory32(0x00000002, 0x40048000, "Memory");  // SYSMEMREMAP = 2
+}
+
+execUserPreload()
+{
+  __message "------- execute UserPreLoad -----------";
+  __writeMemory32(0x00000002, 0x40048000, "Memory");  // SYSMEMREMAP = 2
+}	
+

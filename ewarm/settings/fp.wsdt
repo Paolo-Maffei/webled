@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>fp/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>199</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>657</ColumnWidth1><ColumnWidth2>273</ColumnWidth2><ColumnWidth3>68</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files><TerminalIO/><Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1860</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23312-18567</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>fp</ExpandedNode><ExpandedNode>fp/app</ExpandedNode><ExpandedNode>fp/app/telnetd</ExpandedNode><ExpandedNode>fp/uip</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30067-19873</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-573-31985</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\main.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1092</SelStart><SelEnd>1092</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\led7_task.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>103</SelStart><SelEnd>103</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\uip_task.c</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>1400</SelStart><SelEnd>1400</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\telnetd\telnetd.c</Filename><XPos>0</XPos><YPos>297</YPos><SelStart>7519</SelStart><SelEnd>7519</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\telnetd\telnetd.h</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>2104</SelStart><SelEnd>2104</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\uip\uip_arp.c</Filename><XPos>0</XPos><YPos>373</YPos><SelStart>11159</SelStart><SelEnd>11159</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\dev\enc28j60.c</Filename><XPos>0</XPos><YPos>378</YPos><SelStart>8732</SelStart><SelEnd>8732</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\uip\uip.c</Filename><XPos>0</XPos><YPos>1772</YPos><SelStart>55419</SelStart><SelEnd>55419</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\uip\uipopt.h</Filename><XPos>0</XPos><YPos>467</YPos><SelStart>13445</SelStart><SelEnd>13445</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00fbd540><key>iaridepm.enu1</key></Toolbar-00fbd540></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>771</Bottom><Right>273</Right><x>-2</x><y>-2</y><xscreen>270</xscreen><yscreen>246</yscreen><sizeHorzCX>140625</sizeHorzCX><sizeHorzCY>246493</sizeHorzCY><sizeVertCX>143229</sizeVertCX><sizeVertCY>774549</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>182</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>184</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>184369</sizeHorzCY><sizeVertCX>140625</sizeVertCX><sizeVertCY>246493</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
